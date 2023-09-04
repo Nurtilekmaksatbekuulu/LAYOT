@@ -1,0 +1,23 @@
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 510px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    margin-top: 150px;
+   
+}
+.elem-blok{
+    margin-bottom: 10px;
+    border: 2px solid;
+    width:150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    background-color: aqua;
+    
+}
